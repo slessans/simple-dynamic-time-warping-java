@@ -1,0 +1,14 @@
+
+To run this thing...
+
+in the terminal in the root directory (directory with src folder):
+
+1) compile:
+
+% sh compile.sh
+
+2) Now run problem 6, 7 or 8 by:
+
+% sh run_problem6.sh
+% sh run_problem7.sh
+% sh run_problem8.sh
